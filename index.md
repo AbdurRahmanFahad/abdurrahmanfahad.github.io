@@ -4,8 +4,8 @@
 
 ### Contents
 
-[Projects and Research](/project/)
-[Achievements](#Achievements)
+* [Projects and Research](/project/)
+* [Achievements](#Achievements)
 
 <br>
 
