@@ -6,6 +6,7 @@
 
 * [Projects and Research](/project/)
 * [Hobby and Others](/page2/)
+* <a href = "/page2/" target="_blank"> others </a>
 
 <br>
 
