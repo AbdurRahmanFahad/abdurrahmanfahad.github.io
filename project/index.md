@@ -19,7 +19,7 @@ Here are some projects I've done so far
 [Github Repository](https://github.com/AbdurRahmanFahad/Car-racing-game)
 <br>
 <br>
-* * *
+
 <br>
 ### P2P Messenger
 ###### A client to client messaging app written in Java using the help of JavaFx library. It supports multiple users simultaneously. It can be used in the same Local Area Network also over the net.
@@ -27,7 +27,7 @@ Here are some projects I've done so far
 [Github Repository](https://github.com/AbdurRahmanFahad/Messenger-app)
 <br>
 <br>
-* * *
+
 <br>
 ### Smart Traffic Signal Control System
 ###### ATmega32 micro-controller is used for interfacing to various hardware peripherals.
@@ -35,7 +35,7 @@ Here are some projects I've done so far
 [Github Repository](https://github.com/AbdurRahmanFahad/Smart-Traffic-Signal-Control-System)
 <br>
 <br>
-* * *
+
 <br>
 ### HTTP File Server
 ###### A simultaneous multiple client handling capable HTTP File Server written in Java. This program can be used to transfer files in the same LAN between different machines. Multiple clients can access multiple files and download them simultaneously. 
@@ -43,7 +43,7 @@ Here are some projects I've done so far
 [Github Repository](https://github.com/AbdurRahmanFahad/HTTP-File-Server)
 <br>
 <br>
-* * *
+
 <br>
 ### Custom C Compiler
 ###### A Custom Compiler for the C language made using the tools bison and flex that generates corresponding assembly code. It supports a subset of the C language. Can detect lexical errors, syntax errors, semantic errors.
