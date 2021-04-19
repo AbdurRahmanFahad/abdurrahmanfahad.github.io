@@ -4,7 +4,7 @@
 
 ### init
 
-[Projects](/new/)
+[Projects](abdurrahmanfahad.github.io/project/)
 
 <br>
 
