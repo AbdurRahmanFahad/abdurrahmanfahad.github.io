@@ -1,3 +1,13 @@
+## Research
+
+I am currently doing research under [Dr. Abu Sayed Md. Latiful Hoque](https://cse.buet.ac.bd/faculty_list/detail/asmlatifulhoque) on Parallel and Distributed Data Warehouse and OLAP for Development of National Health Data Warehouse of Bangladesh.
+
+<br>
+
+<br>
+
+<br>
+
 ## Projects
 Here are some projects I've done so far
 * * *
