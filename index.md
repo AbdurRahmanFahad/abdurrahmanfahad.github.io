@@ -1,11 +1,11 @@
-## HELLO WORLD!
+### HELLO WORLD!
 * * *
 <br>
 
 ### Contents
 
 * [Projects and Research](/project/)
-* [Achievements](#Achievements)
+* [Hobby and Others](/page2/)
 
 <br>
 
