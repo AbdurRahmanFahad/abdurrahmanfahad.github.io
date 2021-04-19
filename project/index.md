@@ -1,5 +1,5 @@
 ## Research
-
+* * *
 I am currently doing research under [Dr. Abu Sayed Md. Latiful Hoque](https://cse.buet.ac.bd/faculty_list/detail/asmlatifulhoque) on Parallel and Distributed Data Warehouse and OLAP for Development of National Health Data Warehouse of Bangladesh.
 
 <br>
@@ -9,8 +9,9 @@ I am currently doing research under [Dr. Abu Sayed Md. Latiful Hoque](https://cs
 <br>
 
 ## Projects
-Here are some projects I've done so far
 * * *
+Here are some projects I've done so far
+
 <br>
 ### Car Racing Game 
 ###### A simple car racing game written in C and C++ using Microsoft Visual Studio.
@@ -50,4 +51,4 @@ Here are some projects I've done so far
 [Github Repository](https://github.com/AbdurRahmanFahad/C-Compiler)
 <br>
 <br>
-* * *
+
