@@ -3,10 +3,8 @@
 <br>
 
 ### Contents
-
-* [Projects and Research](/project/)
-* [Hobby and Others](/page2/)
-* <a href = "/page2/" target="_blank"> others </a>
+* <a href = "/project/" target="_blank"> Projects and Research </a>
+* <a href = "/page2/" target="_blank"> Hobby and Others </a>
 
 <br>
 
