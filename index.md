@@ -120,6 +120,8 @@ Learning, Android Development and Computer Security.
 
 <br>
 
+##### Find me on
+
 <code><a href="https://github.com/AbdurRahmanFahad" target="_blank"><img height="42" style="background: ##FFFFFF;" src="icons/github.png"></a></code>
 <code><a href="https://www.linkedin.com/in/abdur-rahman-fahad-a24091183/" target="_blank"><img height="42" src="icons/linkedin.png"></a></code>
 <code><a href="https://www.facebook.com/fahad1605069" target="_blank"><img height="42" src="icons/facebook.png"></a></code>
