@@ -13,7 +13,7 @@
 <br>
 
 
-<img alt="My pic" style="box-shadow: 2px,2px;" height="405px" src="InShot_20210419_231658191.jpg">
+<img alt="My pic" style="box-shadow: 2px,2px;border-radius: 7px;" height="405px" src="InShot_20210419_231658191.jpg">
 
 
 ### About Me
