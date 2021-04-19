@@ -2,9 +2,10 @@
 * * *
 <br>
 
-### init
+### Contents
 
-[Projects](/project/)
+[Projects and Research](/project/)
+[Achievements](#Achievements)
 
 <br>
 
@@ -107,10 +108,10 @@ Learning, Android Development and Computer Security.
 
 ### Competitive Programming Profiles
 
-<code><a href="https://codeforces.com/profile/1605069"><img alt="CF" width="205px"  title="Codeforces" src="https://web.uvic.ca/~amashreg/img/codeforces.png"></a></code>
-<code><a href="https://www.hackerrank.com/fahad69?hr_r=1"><img alt="CF" width="38px" title="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/lqlkg85sw4sgmp2xvznh"></a></code>
-<code><a href="https://toph.co/u/fahad_69"><img alt="CF" width="94px" title="Toph" src="https://toph.co/images/logo_120h.png?_=e36c556d521158f36164031eac9b2c0a0190f8b2"></a></code>
-<code><a href="https://www.codechef.com/users/fahad69"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
+<code><a href="https://codeforces.com/profile/1605069" target="_blank"><img alt="CF" width="205px"  title="Codeforces" src="https://web.uvic.ca/~amashreg/img/codeforces.png"></a></code>
+<code><a href="https://www.hackerrank.com/fahad69?hr_r=1" target="_blank"><img alt="CF" width="38px" title="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/lqlkg85sw4sgmp2xvznh"></a></code>
+<code><a href="https://toph.co/u/fahad_69" target="_blank"><img alt="CF" width="94px" title="Toph" src="https://toph.co/images/logo_120h.png?_=e36c556d521158f36164031eac9b2c0a0190f8b2"></a></code>
+<code><a href="https://www.codechef.com/users/fahad69" target="_blank"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
 
 <br>
 
@@ -120,10 +121,10 @@ Learning, Android Development and Computer Security.
 
 <br>
 
-<code><a href="https://github.com/AbdurRahmanFahad"><img height="42" src="icons/github.png"></a></code>
-<code><a href="https://www.linkedin.com/in/abdur-rahman-fahad-a24091183/"><img height="42" src="icons/linkedin.png"></a></code>
-<code><a href="https://www.facebook.com/fahad1605069"><img height="42" src="icons/facebook.png"></a></code>
-<code><a href="https://www.instagram.com/__fahad_rahman__/"><img height="42" src="icons/instagram.png"></a></code>
-<code><a href="https://www.flickr.com/photos/153952100@N04/"><img height="42" src="icons/flickr.png"></a></code>
+<code><a href="https://github.com/AbdurRahmanFahad" target="_blank"><img height="42" src="icons/github.png"></a></code>
+<code><a href="https://www.linkedin.com/in/abdur-rahman-fahad-a24091183/" target="_blank"><img height="42" src="icons/linkedin.png"></a></code>
+<code><a href="https://www.facebook.com/fahad1605069" target="_blank"><img height="42" src="icons/facebook.png"></a></code>
+<code><a href="https://www.instagram.com/__fahad_rahman__/" target="_blank"><img height="42" src="icons/instagram.png"></a></code>
+<code><a href="https://www.flickr.com/photos/153952100@N04/" target="_blank"><img height="42" src="icons/flickr.png"></a></code>
 
 <br>
