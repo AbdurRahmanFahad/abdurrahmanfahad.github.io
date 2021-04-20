@@ -26,7 +26,6 @@ Learning, Android Development and Computer Security.
 ```
 <br>
 
-* * *
 
 <br>
 
@@ -43,7 +42,6 @@ Learning, Android Development and Computer Security.
 
 <br>
 
-* * *
 
 <br>
 
@@ -57,7 +55,6 @@ Learning, Android Development and Computer Security.
 
 <br>
 
-* * *
 
 <br>
 
@@ -99,11 +96,6 @@ Learning, Android Development and Computer Security.
 <br>
 
 
-
-* * *
-
-<br>
-
 ### Competitive Programming Profiles
 
 <code><a href="https://codeforces.com/profile/1605069" target="_blank"><img alt="CF" width="205px"  title="Codeforces" src="https://web.uvic.ca/~amashreg/img/codeforces.png"></a></code>
@@ -116,8 +108,6 @@ Learning, Android Development and Computer Security.
 <br>
 
 * * *
-
-<br>
 
 ##### Find me on
 
