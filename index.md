@@ -49,12 +49,11 @@ Learning, Android Development and Computer Security.
 
 ### Education
 
-| DEGREE       | INSTITUTE          | YEAR | GRADE |
-|:-------------|:------------------|:------| :------|
-| BSc          | Bangladesh University of Engineering and Technology | 2017 - 2022  |  3.23  |
-| HSC          | Notre Dame College, Dhaka | 2014 - 2016  | 5.00 |
-| SSC          |   Rajuk Uttara Model College   | 2014  | 5.00 |
-| JSC          | Rajuk Uttara Model College | 2011 | 5.00 |
+| DEGREE       | INSTITUTE          | YEAR | 
+|:-------------|:------------------|:------| 
+| BSc          | Bangladesh University of Engineering and Technology | 2017 - 2022  |
+| HSC          | Notre Dame College, Dhaka | 2014 - 2016  | 
+| SSC          |   Rajuk Uttara Model College   | 2014  | 
 
 <br>
 
