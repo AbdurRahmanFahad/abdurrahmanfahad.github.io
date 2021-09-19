@@ -98,7 +98,7 @@ Learning, Android Development and Computer Security.
 
 ### Competitive Programming Profiles
 
-<code><a href="https://codeforces.com/profile/1605069" target="_blank"><img alt="CF" width="205px"  title="Codeforces" src="icons/codeforces.png"></a></code>
+<code><a href="https://codeforces.com/profile/1605069" target="_blank"><img alt="CF" width="205px"  title="Codeforces" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Codeforces_logo.svg/2560px-Codeforces_logo.svg.png"></a></code>
 <code><a href="https://www.hackerrank.com/fahad69?hr_r=1" target="_blank"><img alt="CF" width="38px" title="HackerRank" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/lqlkg85sw4sgmp2xvznh"></a></code>
 <code><a href="https://toph.co/u/fahad_69" target="_blank"><img alt="CF" width="94px" title="Toph" src="https://toph.co/images/logo_120h.png?_=e36c556d521158f36164031eac9b2c0a0190f8b2"></a></code>
 <code><a href="https://www.codechef.com/users/fahad69" target="_blank"><img alt="CF" width="108px" title="CodeChef" src="https://www.codechef.com/sites/all/themes/abessive/cc-logo.png"></a></code>
