@@ -11,6 +11,13 @@ I am currently doing research under [Dr. Abu Sayed Md. Latiful Hoque](https://cs
 ## Projects
 * * *
 Here are some projects I've done so far
+<br>
+### Ride Sharing App
+###### A ride sharing app for android platform built with my project partners as term project for SE course.
+
+[Github Repository](https://github.com/RaihanRasheedApurbo/RideSharingApp-TakeME)
+<br>
+<br>
 
 <br>
 ### Car Racing Game 
