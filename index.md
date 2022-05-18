@@ -18,11 +18,10 @@
 
 ### About Me
 ```
-Hello! I am Abdur Rahman Fahad, currently a final year student 
-doing B.Sc. in Computer Science and Engineering.
+Hello! I am Abdur Rahman Fahad, I've completed B.Sc. in CSE from BUET.
 I am passionate about problem solving and software development. 
 I am also interested in Data Analysis, Machine
-Learning, Android Development and Computer Security.
+Learning, Android Development.
 ```
 <br>
 
@@ -33,9 +32,9 @@ Learning, Android Development and Computer Security.
 
 |      |         |
 |:-----|:--------|
-| Language | `C++` `Python` `Java` `GNU Octave`  `Shell script` `Javascript` |
-| Framework | `HTML5` `CSS3` `Express JS`|
-| Database | `PostgreSQL` `Oracle` `MongoDB` |
+| Language | `C++` `Python` `Java` `GNU Octave`  `Shell script` |
+| Framework | `HTML5` `CSS3`|
+| Database | `PostgreSQL` `Oracle` |
 | Version Control | `Git` `Github` |
 | OS | `Windows` `Linux` |
 | Development | `Android` `Web` |
