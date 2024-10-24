@@ -18,7 +18,9 @@
 
 ### About Me
 ```
-Hello! I am Abdur Rahman Fahad, I've completed B.Sc. in CSE from BUET.
+Hello! I am Abdur Rahman Fahad, I am currently working as a Graduate Research Assistant in Missouri State University.
+I worked as a Software Engineer in ML team of TigerIT Bangladesh Ltd (2022-2024).
+I've completed my Bachelor's in CSE from BUET.
 I am passionate about problem solving and software development. 
 I am also interested in Data Analysis, Machine
 Learning, Android Development.
@@ -33,7 +35,7 @@ Learning, Android Development.
 |      |         |
 |:-----|:--------|
 | Language | `C++` `Python` `Java` `GNU Octave`  `Shell script` |
-| Framework | `HTML5` `CSS3`|
+| Framework | `Pytorch` `HTML5` `CSS3`|
 | Database | `PostgreSQL` `Oracle` |
 | Version Control | `Git` `Github` |
 | OS | `Windows` `Linux` |
@@ -48,9 +50,10 @@ Learning, Android Development.
 
 | DEGREE       | INSTITUTE          | YEAR | 
 |:-------------|:------------------|:------| 
+| MS           | Missouri State University| 2014 - Present  |
 | BSc          | Bangladesh University of Engineering and Technology | 2017 - 2022  |
 | HSC          | Notre Dame College, Dhaka | 2014 - 2016  | 
-| SSC          |   Rajuk Uttara Model College   | 2014  | 
+| SSC          | Rajuk Uttara Model College   | 2014  | 
 
 <br>
 
