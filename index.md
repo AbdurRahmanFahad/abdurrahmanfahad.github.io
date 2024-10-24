@@ -3,7 +3,6 @@
 <br>
 
 ### Contents
-* <a href = "/project/" target="_blank"> Projects and Research </a>
 * <a href = "/page2/" target="_blank"> Hobby and Others </a>
 
 <br>
@@ -18,7 +17,8 @@
 
 ### About Me
 ```
-Hello! I am Abdur Rahman Fahad, I am currently working as a Graduate Research Assistant in Missouri State University.
+Hello! I am Abdur Rahman Fahad.
+I am currently working as a Graduate Research Assistant in Missouri State University.
 I worked as a Software Engineer in ML team of TigerIT Bangladesh Ltd (2022-2024).
 I've completed my Bachelor's in CSE from BUET.
 I am passionate about problem solving and software development. 
