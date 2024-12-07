@@ -20,7 +20,7 @@
 Hello! I am Abdur Rahman Fahad.
 I am currently working as a Graduate Research Assistant in Missouri State University.
 I worked as a Software Engineer in ML team of TigerIT Bangladesh Ltd (2022-2024).
-I've completed my Bachelor's in CSE from BUET.
+I've completed my Bachelor's in CSE from BUET(2022).
 I am passionate about problem solving and software development. 
 I am also interested in Data Analysis, Machine
 Learning, Android Development.
