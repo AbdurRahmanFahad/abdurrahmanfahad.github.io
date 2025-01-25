@@ -50,7 +50,7 @@ Learning, Android Development.
 
 | DEGREE       | INSTITUTE          | YEAR | 
 |:-------------|:------------------|:------| 
-| MS           | Missouri State University| 2014 - Present  |
+| MS           | Missouri State University| 2024 - Present  |
 | BSc          | Bangladesh University of Engineering and Technology | 2017 - 2022  |
 | HSC          | Notre Dame College, Dhaka | 2014 - 2016  | 
 | SSC          | Rajuk Uttara Model College   | 2014  | 
