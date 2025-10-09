@@ -346,29 +346,59 @@
                     </div>
                 </div>
 
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-4">
-                    <div class="flex-grow-1">
-                        <h4 class="mb-0"><a href="assets/CSC737_DL_Project_Report.pdf">Scene Graph Generation for Object Localization in Smart Homes from User Commands</a></h4>
-                        <div class="subheading mb-1">Course: CSC737 - Deep Learning</div>
-                         We have integrated natural language processing (NLP) with the scene
-                                graph generation technique to build a system that will take
-                                the user’s command and locate the objects from a camera feed
-                                from a complex home environment. 
-                            
-                    </div>
-                    <div class="flex-shrink-0"><span class="text-primary">Fall 2024</span></div>
+
+                <div class="d-flex flex-column flex-md-row justify-content-between align-items-start mb-4">
+                <div class="flex-grow-1 pe-md-4">
+                    <h4 class="mb-0">
+                    <a href="assets/CSC737_DL_Project_Report.pdf">
+                        Scene Graph Generation for Object Localization in Smart Homes from User Commands
+                    </a>
+                    </h4>
+                    <div class="subheading mb-1">Course: CSC737 - Deep Learning</div>
+                    Developed a scene graph generation system that interprets user commands and 
+                    locates corresponding objects from a camera feed. Utilized DistilBERT
+                    for context extraction from natural language queries, Detectron2 for 
+                    object detection and localization, and an iterative transformer-based 
+                    scene graph generator for relational reasoning between entities. 
+                    Trained and evaluated the model using the Visual Genome dataset for 
+                    context-aware object localization.
                 </div>
+
+                <div class="flex-shrink-0 text-center mt-3 mt-md-0">
+                    <img src="assets/737_demo.png" alt="Scene Graph Demo"
+                        style="width:210px; height:auto; border-radius:0px; box-shadow:0 4px 16px rgba(0,0,0,0.3); cursor:pointer;"
+                        onclick="openFullscreen(this)">
+                </div>
+                </div>
+
+                <div id="imgFullscreen" onclick="this.style.display='none'" 
+                    style="display:none; position:fixed; z-index:9999; padding-top:50px; left:0; top:0; width:100%; height:100%; overflow:auto; background-color:rgba(0,0,0,0.9); text-align:center;">
+                <img id="imgInFullscreen" style="margin:auto; display:block; width:90%; max-width:1000px; border-radius:10px;">
+                </div>
+
+                <script>
+                function openFullscreen(img) {
+                var full = document.getElementById("imgFullscreen");
+                var fullImg = document.getElementById("imgInFullscreen");
+                full.style.display = "block";
+                fullImg.src = img.src;
+                }
+                </script>
+
+
 
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-4">
                     <div class="flex-grow-1">
-                        <h4 class="mb-0"><a href="assets/CSC_790_XAI_Final_Report.pdf">Integrating PyMOO with DiCEML</a></h4>
+                        <h4 class="mb-0"><a href="assets/CSC_790_XAI_Final_Report.pdf">
+                            Generating Pareto-Optimal Counterfactuals through Evolutionary Multi-Objective Optimization
+                        </a></h4>
                         <div class="subheading mb-1">Course: CSC790 - Explainable AI</div>
-                         We used PyMOO’s algorithms, such as NSGA-II, to achieve this
-                                balance. These algorithms create explanations that work well for
-                                different needs. This paper explains how we combined DiCEML
-                                and PyMOO. It describes the steps we followed and the results
-                                we achieved. Our early results show that this method makes AI
-                                systems clearer
+                         In this project we enriched DiCEML framework by integrating PyMOO, 
+                         a powerful library for multi-objective optimization, 
+                         to generate higher quality counterfactual explanations. 
+                         By implementing algorithms like NSGA-II as a new sampling strategy, 
+                        better balance was achieved in competing objectives such as proximity, 
+                         diversity, and sparsity in the explanations it produced.
                             
                     </div>
                     <div class="flex-shrink-0"><span class="text-primary">Fall 2024</span></div>
@@ -399,53 +429,82 @@
                         <h4 class="mb-0"><a href="https://github.com/AbdurRahmanFahad/RideSharingApp-TakeME">RideSharingApp-TakeME</a>
                         </h4>
                         <div class="subheading mb-1">Course: CSE307,308 - Software Engineering </div>
-                        This application has 4 seperate deployable artifacts. 
-                                Three seperate android applications in three folders and one shared backend. 
-                                Please go to the respective directory to look at specific details.
+                        Developed a full-stack ride-sharing app consisting of three Android apps - for users, drivers, and vehicle owners.
+                        Implemented RESTful API communication using Volley, JWT based authentication, and Mapbox for live location tracking and vehicle management.
+                        Integrated real-time updates, ride lifecycle management and dashboard analytics for each role.
                     </div>
                 </div>
+
+
+
+                
+                <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mb-4">
+                <div class="flex-grow-1 pe-md-4">
+                    <h4 class="mb-0">
+                    <a href="https://github.com/AbdurRahmanFahad/4-1/tree/main/Computer%20Graphics/Offline%203">
+                        3D Rendering Framework Using Ray Tracing in OpenGL
+                    </a>
+                    </h4>
+                    <div class="subheading mb-1">
+                    Course: CSE 409,410 - Computer Graphics
+                    </div>
+                    Built a C++ ray tracer capable of rendering realistic 3D scenes with multi-level reflections.
+                        Applied Phong lighting to model ambient, diffuse, and specular illumination.
+                        Designed camera controls and geometry handling for dynamic scene visualization.
+                </div>
+
+                <div class="flex-shrink-0 text-center mt-3 mt-md-0">
+                    <img src="assets/ray_tracing.png" alt="Ray Trace Demo"
+                        style="width:120px; height:auto; border-radius:6px; box-shadow:0 4px 16px rgba(0,0,0,0.3); cursor:pointer;"
+                        onclick="openFullscreen(this)">
+                </div>
+                </div>
+
 
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-4">
                     <div class="flex-grow-1">
                         <h4 class="mb-0"><a href="https://github.com/AbdurRahmanFahad/C-Compiler">Minimal C Compiler</a>
                         </h4>
                         <div class="subheading mb-1">Course: CSE309,310 - Compiler </div>
-                        A Custom Compiler for the C language made using the tools bison and flex that generates corresponding assembly code. 
-                                It supports a subset of the C language, therefore not all syntaxes are supported. 
-                                It can detect lexical errors, syntax errors, semantic errors and output them in a log file
+                        A custom compiler for a subset of the C language using Flex for lexical analysis and Bison for syntax and semantic parsing.
+                        Implemented multi-stage compilation to generate equivalent 8086 assembly code, including data declarations, control flow translation, and arithmetic operations.
+                        Integrated error handling for lexical, syntax, and semantic violations, outputting detailed logs for debugging.
                         
                     </div>
                 </div>
 
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-4">
-                    <div class="flex-grow-1">
-                        <h4 class="mb-0"><a href="https://github.com/AbdurRahmanFahad/Smart-Traffic-Signal-Control-System">Smart Traffic Signal Control System</a>
-                        </h4>
-                        <div class="subheading mb-1">Course: CSE315,316 - Microprocessors, Microcontrollers, and Embedded Systems </div>
-                        In this project ATmega32 microcontroller is used for interfacing to various hardware peripherals. 
-                                The system has to determine whether there is traffic jam in any road. For doing so, 
-                                we need to install a sonar above each lane of the road at a certain distance apart from the traffic signal.
+
+                <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mb-4">
+                <div class="flex-grow-1 pe-md-4">
+                    <h4 class="mb-0">
+                    <a href="https://github.com/AbdurRahmanFahad/Smart-Traffic-Signal-Control-System">
+                        Smart Traffic Signal Control System
+                    </a>
+                    </h4>
+                    <div class="subheading mb-1">
+                    Course: CSE315,316 - Microprocessors, Microcontrollers, and Embedded Systems
                     </div>
+                    Adaptive traffic signal control system using ATmega32 microcontrollers and HC-SR04 ultrasonic sensors to detect real-time vehicle congestion. 
+                    Integrated multi-microcontroller communication, timer-based jam detection, and automated signal scheduling.
                 </div>
 
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-4">
-                    <div class="flex-grow-1">
-                        <h4 class="mb-0"><a href="https://github.com/AbdurRahmanFahad/4-1/tree/main/Computer%20Graphics/Offline%203">Realistic Rendering of Geometric Shapes via Ray Tracing</a>
-                        </h4>
-                        <div class="subheading mb-1">Course: CSE 409,410 - Computer Graphics </div>
-                        Developed a ray tracing engine to render realistic images of geometric shapes with controllable camera movement. 
-                                Implemented Phong illumination, ray–object intersections (sphere, plane, triangle), and multi-level reflections. 
-                                Extended features include refraction and texture mapping for enhanced realism.
-                    </div>
+                <div class="flex-shrink-0 text-center mt-3 mt-md-0">
+                    <img src="assets/CSE316.png" alt="316 Demo"
+                        style="width:150px; height:auto; border-radius:6px; box-shadow:0 4px 16px rgba(0,0,0,0.3); cursor:pointer;"
+                        onclick="openFullscreen(this)">
                 </div>
+                </div>
+
+                
 
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-4">
                     <div class="flex-grow-1">
                         <h4 class="mb-0"><a href="https://github.com/AbdurRahmanFahad/4-1/tree/main/Computer%20Security/Project">DoS attack to the DNS server</a>
                         </h4>
                         <div class="subheading mb-1">Course: CSE 405,406 - Computer Security </div>
-                        Demonstrated attack on DNS Server using spoofed IP address resulting in Denial-of-service. Exhausted the server’s resources
-                                    with a flood of UDP requests, generated by scripts running on several virtual machines.
+                        Denial-of-Service (DoS) attack simulation on a local DNS server configured with Bind9.
+                        Implemented an IP spoofing mechanism to generate randomized UDP-based DNS queries, exhausting server's cache resources.
+                        Used Wireshark to analyze packet behavior, validate spoofed headers, and demonstrate complete service denial.
                     </div>
                 </div>
 
